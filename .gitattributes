@@ -106,3 +106,10 @@ CRIME.aspx.vb filter=lfs diff=lfs merge=lfs -text
 bgbrown.jpg filter=lfs diff=lfs merge=lfs -text
 orgred.png filter=lfs diff=lfs merge=lfs -text
 lgout.jpg filter=lfs diff=lfs merge=lfs -text
+FIR[[:space:]](1).aspx.exclude filter=lfs diff=lfs merge=lfs -text
+mysql-connector-net-6.9.6[[:space:]](1).msi filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+yearwise[[:space:]]crime.pdf filter=lfs diff=lfs merge=lfs -text
+YEARWISE[[:space:]]CRIME.rpt filter=lfs diff=lfs merge=lfs -text
+DBMS[[:space:]]POLICE1.swf filter=lfs diff=lfs merge=lfs -text
+Default[[:space:]](1).aspx.exclude filter=lfs diff=lfs merge=lfs -text
