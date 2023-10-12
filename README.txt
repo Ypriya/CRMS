@@ -1,3 +1,4 @@
+THIS IS HIGH SCHOOL PROJECT FROM 2017
 As we see whenever any crime related incidence happens then petitioner registers complaint to the police station.
 But sometimes this process is so lengthy to do. The reason behind choosing these problem statements is that instead of manually, all the process is done in a computerized way.
 All FIR data we made computerized and also 50 reports of CRIME ANALYSIS have been generated
